@@ -1,0 +1,18 @@
+C:\Users\Shashwat\source\repos\EdgeJsServerNet\EdgeJsServerNet462\bin\Debug\EdgeJsServerNet462.dll
+C:\Users\Shashwat\source\repos\EdgeJsServerNet\EdgeJsServerNet462\bin\Debug\EdgeJsServerNet462.pdb
+C:\Users\Shashwat\source\repos\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.csprojResolveAssemblyReference.cache
+C:\Users\Shashwat\source\repos\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.csproj.CoreCompileInputs.cache
+C:\Users\Shashwat\source\repos\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.dll
+C:\Users\Shashwat\source\repos\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.pdb
+D:\Users\Documents\Visual Studio 2017\EdgeJsServerNet\EdgeJsServerNet462\bin\Debug\EdgeJsServerNet462.dll
+D:\Users\Documents\Visual Studio 2017\EdgeJsServerNet\EdgeJsServerNet462\bin\Debug\EdgeJsServerNet462.pdb
+D:\Users\Documents\Visual Studio 2017\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.csprojResolveAssemblyReference.cache
+D:\Users\Documents\Visual Studio 2017\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.csproj.CoreCompileInputs.cache
+D:\Users\Documents\Visual Studio 2017\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.dll
+D:\Users\Documents\Visual Studio 2017\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.pdb
+D:\Users\Documents\Visual Studio 2017\EdgeJsPlayground\EdgeJsServerNet\EdgeJsServerNet462\bin\Debug\EdgeJsServerNet462.dll
+D:\Users\Documents\Visual Studio 2017\EdgeJsPlayground\EdgeJsServerNet\EdgeJsServerNet462\bin\Debug\EdgeJsServerNet462.pdb
+D:\Users\Documents\Visual Studio 2017\EdgeJsPlayground\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.csprojResolveAssemblyReference.cache
+D:\Users\Documents\Visual Studio 2017\EdgeJsPlayground\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.csproj.CoreCompileInputs.cache
+D:\Users\Documents\Visual Studio 2017\EdgeJsPlayground\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.dll
+D:\Users\Documents\Visual Studio 2017\EdgeJsPlayground\EdgeJsServerNet\EdgeJsServerNet462\obj\Debug\EdgeJsServerNet462.pdb
